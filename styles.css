@@ -1,0 +1,46 @@
+/* add your CSS here */
+.outer-container{
+    display:flex;
+    flex-wrap:wrap;
+  }
+  .animal-name{
+    font-size:30px;
+    margin-top:0;
+  }
+  .animal-image{
+    width:290px;
+    border:5px solid black;
+  }
+  
+  .card{
+    width:310px;
+    border:0.5px solid black;
+    padding:20px;
+    margin:10px;
+    box-shadow: 5px 5px #888888;
+    border-radius:10px;
+    background-color: #c2afaf;
+  }
+  
+  .container{
+    border:0.05px solid black;
+    margin-top: 20px;
+    padding:10px;
+  }
+  
+  .animal-fact{
+    font-style:italic;
+  }
+  
+  ul{
+    margin:0;
+    padding:0;
+  }
+  li{
+    list-style:none;
+  }
+  
+  span{ 
+    font-weight:bold;
+  }
+  
